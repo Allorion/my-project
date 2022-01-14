@@ -1,0 +1,181 @@
+{
+  "packages": {
+    "/": {
+      "dest": {
+        "dir": "./build",
+        "id": "/",
+        "name": "my-project",
+        "version": "1.0.0"
+      },
+      "modules": {
+        "App.js": {
+          "flags": {
+            "esModule": true
+          }
+        },
+        "AppComponent.js": {
+          "flags": {
+            "esModule": true
+          }
+        },
+        "index.js": {
+          "flags": {
+            "esModule": true
+          }
+        }
+      },
+      "src": {
+        "dir": ".",
+        "id": "/",
+        "name": "my-project",
+        "version": "1.0.0"
+      }
+    },
+    "js-tokens@4.0.0": {
+      "dest": {
+        "dir": "./build/node_modules/my-project$js-tokens@4.0.0",
+        "id": "my-project$js-tokens@4.0.0",
+        "name": "my-project$js-tokens",
+        "version": "4.0.0"
+      },
+      "modules": {
+        "index.js": {
+          "flags": {
+            "esModule": true
+          }
+        }
+      },
+      "src": {
+        "dir": "./node_modules/js-tokens",
+        "id": "js-tokens@4.0.0",
+        "name": "js-tokens",
+        "version": "4.0.0"
+      }
+    },
+    "loose-envify@1.4.0": {
+      "dest": {
+        "dir": "./build/node_modules/my-project$loose-envify@1.4.0",
+        "id": "my-project$loose-envify@1.4.0",
+        "name": "my-project$loose-envify",
+        "version": "1.4.0"
+      },
+      "src": {
+        "dir": "./node_modules/loose-envify",
+        "id": "loose-envify@1.4.0",
+        "name": "loose-envify",
+        "version": "1.4.0"
+      }
+    },
+    "object-assign@4.1.1": {
+      "dest": {
+        "dir": "./build/node_modules/my-project$object-assign@4.1.1",
+        "id": "my-project$object-assign@4.1.1",
+        "name": "my-project$object-assign",
+        "version": "4.1.1"
+      },
+      "src": {
+        "dir": "./node_modules/object-assign",
+        "id": "object-assign@4.1.1",
+        "name": "object-assign",
+        "version": "4.1.1"
+      }
+    },
+    "prop-types@15.8.1": {
+      "dest": {
+        "dir": "./build/node_modules/my-project$prop-types@15.8.1",
+        "id": "my-project$prop-types@15.8.1",
+        "name": "my-project$prop-types",
+        "version": "15.8.1"
+      },
+      "src": {
+        "dir": "./node_modules/prop-types",
+        "id": "prop-types@15.8.1",
+        "name": "prop-types",
+        "version": "15.8.1"
+      }
+    },
+    "react-dom@16.8.6": {
+      "dest": {
+        "dir": "./build/node_modules/my-project$react-dom@16.8.6",
+        "id": "my-project$react-dom@16.8.6",
+        "name": "my-project$react-dom",
+        "version": "16.8.6"
+      },
+      "src": {
+        "dir": "./node_modules/react-dom",
+        "id": "react-dom@16.8.6",
+        "name": "react-dom",
+        "version": "16.8.6"
+      }
+    },
+    "react-is@16.13.1": {
+      "dest": {
+        "dir": "./build/node_modules/my-project$react-is@16.13.1",
+        "id": "my-project$react-is@16.13.1",
+        "name": "my-project$react-is",
+        "version": "16.13.1"
+      },
+      "src": {
+        "dir": "./node_modules/react-is",
+        "id": "react-is@16.13.1",
+        "name": "react-is",
+        "version": "16.13.1"
+      }
+    },
+    "react@16.8.6": {
+      "dest": {
+        "dir": "./build/node_modules/my-project$react@16.8.6",
+        "id": "my-project$react@16.8.6",
+        "name": "my-project$react",
+        "version": "16.8.6"
+      },
+      "src": {
+        "dir": "./node_modules/react",
+        "id": "react@16.8.6",
+        "name": "react",
+        "version": "16.8.6"
+      }
+    },
+    "scheduler@0.13.6": {
+      "dest": {
+        "dir": "./build/node_modules/my-project$scheduler@0.13.6",
+        "id": "my-project$scheduler@0.13.6",
+        "name": "my-project$scheduler",
+        "version": "0.13.6"
+      },
+      "modules": {
+        "cjs/scheduler-tracing.development.js": {
+          "flags": {
+            "esModule": true
+          }
+        },
+        "cjs/scheduler-tracing.production.min.js": {
+          "flags": {
+            "esModule": true
+          }
+        },
+        "cjs/scheduler-tracing.profiling.min.js": {
+          "flags": {
+            "esModule": true
+          }
+        },
+        "cjs/scheduler.development.js": {
+          "flags": {
+            "esModule": true
+          }
+        },
+        "cjs/scheduler.production.min.js": {
+          "flags": {
+            "esModule": true
+          }
+        }
+      },
+      "src": {
+        "dir": "./node_modules/scheduler",
+        "id": "scheduler@0.13.6",
+        "name": "scheduler",
+        "version": "0.13.6"
+      }
+    }
+  }
+}
